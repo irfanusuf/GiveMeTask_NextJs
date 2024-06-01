@@ -1,2 +1,1 @@
-this is a next js project 
-author: ifyami
+next js app for giving tasks 

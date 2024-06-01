@@ -1,12 +1,20 @@
-import React from 'react'
+import { Box, Container } from "@mui/material";
+import React from "react";
 
 const page = () => {
   return (
-    <div><h1>Hello ifyami </h1>
+    <>
+      <Container sx={{ marginTop: "30px" }}>
+        <h1> TODAYS TOPIC .... </h1>
+        
+        
+       
 
-      <h2> welcome to your first next js app</h2>
-    </div>
-  )
-}
 
-export default page
+    
+      </Container>
+    </>
+  );
+};
+
+export default page;
